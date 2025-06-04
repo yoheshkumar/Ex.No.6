@@ -7,7 +7,7 @@
 
 #AI Tools Required:
 
-# Explanation:
+# Explanation: 
 Experiment the persona pattern as a programmer for any specific applications related with your interesting area. 
 Generate the outoput using more than one AI tool and based on the code generation analyse and discussing that. 
 
